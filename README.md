@@ -56,13 +56,11 @@ npm start
 
 ## 📱 Screenshots
 
-![WhatsApp Image 2025-07-16 at 16 50 28_b88cd2ab](https://github.com/user-attachments/assets/d7b773bc-4341-4081-823d-7b944c51ff49)
 
-![WhatsApp Image 2025-07-16 at 16 50 28_c5895a3e](https://github.com/user-attachments/assets/6fc8b48f-0a4d-4903-90ea-00c4a2885205)
-
-![WhatsApp Image 2025-07-16 at 16 50 29_fe8f1ec1](https://github.com/user-attachments/assets/0cab997d-c13f-4946-a217-31a02a49a7e3)
-
-![WhatsApp Image 2025-07-16 at 16 50 29_8c66fa5e](https://github.com/user-attachments/assets/db8d324a-a758-4e45-aa54-dd624b946ec3)
+![WhatsApp Image 2025-07-16 at 16 50 29_3784f8be](https://github.com/user-attachments/assets/6202eb8b-7d54-49d9-8e64-6a256e77aa26)
+![WhatsApp Image 2025-07-16 at 16 50 29_9ab0dd4d](https://github.com/user-attachments/assets/44d98261-2273-4386-b9bf-d96db44133e8)
+![WhatsApp Image 2025-07-16 at 16 50 28_ee60f70c](https://github.com/user-attachments/assets/bc28f1dd-91e4-4d27-a094-62c60e57bfd1)
+![WhatsApp Image 2025-07-16 at 16 50 28_7b653233](https://github.com/user-attachments/assets/1cf8c2a5-94a9-4023-8f08-c4a87f9f8047)
 
 ---
 
