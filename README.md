@@ -68,14 +68,3 @@ npm start
 
 ---
 
-## 🙋‍♂️ About
-
-Created by [@ftttmhh](https://github.com/ftttmhh).  
-For questions or contributions, open an issue or pull request!
-
----
-
-## 📝 License
-
-MIT License.
-
