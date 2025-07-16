@@ -56,7 +56,13 @@ npm start
 
 ## 📱 Screenshots
 
-<!-- Add screenshots of the user app and admin dashboard here -->
+![WhatsApp Image 2025-07-16 at 16 50 28_b88cd2ab](https://github.com/user-attachments/assets/d7b773bc-4341-4081-823d-7b944c51ff49)
+
+![WhatsApp Image 2025-07-16 at 16 50 28_c5895a3e](https://github.com/user-attachments/assets/6fc8b48f-0a4d-4903-90ea-00c4a2885205)
+
+![WhatsApp Image 2025-07-16 at 16 50 29_fe8f1ec1](https://github.com/user-attachments/assets/0cab997d-c13f-4946-a217-31a02a49a7e3)
+
+![WhatsApp Image 2025-07-16 at 16 50 29_8c66fa5e](https://github.com/user-attachments/assets/db8d324a-a758-4e45-aa54-dd624b946ec3)
 
 ---
 
